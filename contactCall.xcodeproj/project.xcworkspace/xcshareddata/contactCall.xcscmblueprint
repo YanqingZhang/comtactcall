@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "79136FE195715DA1D5E44A3EEBA6FB49CBC50866",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "79136FE195715DA1D5E44A3EEBA6FB49CBC50866" : 9223372036854775807,
+    "23E0D29B2E12024468187D4EBEC7744A3367FABB" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A85E26EF-1CB5-43B9-96E8-B403AC308CEE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "79136FE195715DA1D5E44A3EEBA6FB49CBC50866" : "call\/",
+    "23E0D29B2E12024468187D4EBEC7744A3367FABB" : "call\/contactCall\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "contactCall",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "contactCall.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/YanqingZhang\/connectCall.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "23E0D29B2E12024468187D4EBEC7744A3367FABB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/YanqingZhang\/comtactcall",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "79136FE195715DA1D5E44A3EEBA6FB49CBC50866"
+    }
+  ]
+}

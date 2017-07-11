@@ -22,7 +22,7 @@
     CGRect halfRect;
     CGRect fullRect;
     
-    //搜索
+    //搜索 测试行
 }
 
 @property (strong, nonatomic) IBOutlet UIView *bottomView;

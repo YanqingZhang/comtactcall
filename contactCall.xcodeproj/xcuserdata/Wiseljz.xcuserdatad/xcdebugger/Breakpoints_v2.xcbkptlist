@@ -15,8 +15,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "712"
             endingLineNumber = "712"
-            landmarkName = "FindIndexInMultiPYin(unsigned int key)"
-            landmarkType = "7">
+            landmarkName = "FindIndexInMultiPYin(NSUInteger key)"
+            landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
